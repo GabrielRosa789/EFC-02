@@ -1,4 +1,0 @@
-# Não há dependências externas além das bibliotecas padrão do Python
-# O projeto utiliza apenas: socket, threading, time, struct, hashlib, random, collections
-# Se necessário, adicione aqui:
-# Exemplo: numpy
